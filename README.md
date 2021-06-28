@@ -1,9 +1,10 @@
 # ScriptBackupRobocopy
 
-- Configuração de ORIGEM e DESTINO.
-- Barra de Progresso
-- Relatorio de Backup para Futura Analise.
-- Permitir com base no mesmo Script Diario agendar para diferentes horarios, e diferente ORIGEM e DESTINO.
+1. Configuração de ORIGEM e DESTINO.
+2. Barra de Progresso
+3. Relatorio de Backup para Futura Analise.
+4. Permitir com base no mesmo Script Diario agendar para diferentes horarios, e diferente ORIGEM e DESTINO.
+5. Relatorio do Backup para Analise.
 
 1. Coloque a estrutura de pasta do ScriptBackup no HD como mostra a figura abaixo:
  
@@ -24,6 +25,10 @@ Exemplo abaixo:
 set ORIGEM=C:\PastaB\
 
 set DESTINO=C:\PastaA\
+
+5. Relatorio do Backup para Analise está localizado em 'C:\ScriptBackup\Logs\Diario\backup_bkp.txt'.
+
+![Screenshot](Screenshot04.PNG)
 
 
 
