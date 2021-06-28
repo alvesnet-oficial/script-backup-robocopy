@@ -16,6 +16,9 @@
 
 Exemplo abaixo:
 
-set ORIGEM=C:\PastaB
-set DESTINO=C:\PastaA
+set ORIGEM=C:\PastaB\
+
+set DESTINO=C:\PastaA\
+
+
 
