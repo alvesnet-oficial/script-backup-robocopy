@@ -22,13 +22,11 @@
 
 Exemplo abaixo:
 
-set ORIGEM=C:\PastaB\
-
-set DESTINO=C:\PastaA\
+![Screenshot](Screenshot04.PNG)
 
 5. Relatorio do Backup para Analise está localizado em 'C:\ScriptBackup\Logs\Diario\backup_bkp.txt'.
 
-![Screenshot](Screenshot04.PNG)
+![Screenshot](Screenshot05.PNG)
 
 
 
