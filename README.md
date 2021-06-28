@@ -1,4 +1,4 @@
 # ScriptBackupRobocopy
  
-![Screenshot](Figura01.png)
+![Screenshot](Figura01.PNG)
 
