@@ -6,6 +6,8 @@
 4. Permitir com base no mesmo Script Diario agendar para diferentes horarios, e diferente ORIGEM e DESTINO.
 5. Relatorio do Backup para Analise.
 
+
+
 1. Coloque a estrutura de pasta do ScriptBackup no HD como mostra a figura abaixo:
  
 ![Screenshot](Screenshot01.PNG)
