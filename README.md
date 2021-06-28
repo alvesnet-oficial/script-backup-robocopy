@@ -1,5 +1,10 @@
 # ScriptBackupRobocopy
 
+- Configuração de ORIGEM e DESTINO.
+- Barra de Progresso
+- Relatorio de Backup para Futura Analise.
+- Permitir com base no mesmo Script Diario agendar para diferentes horarios, e diferente ORIGEM e DESTINO.
+
 1. Coloque a estrutura de pasta do ScriptBackup no HD como mostra a figura abaixo:
  
 ![Screenshot](Screenshot01.PNG)
