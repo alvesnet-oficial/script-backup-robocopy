@@ -22,3 +22,7 @@
 
 5. Relatorio do Backup para Analise está localizado em 'C:\ScriptBackup\Logs\Diario\backup_bkp.txt'.
 ![Screenshot](Screenshot05.PNG)
+
+# Windows CMD commands:
+
+https://ss64.com/nt/
