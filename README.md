@@ -9,16 +9,16 @@
 # Passo a Passo:
 
 1. Coloque a estrutura de pasta do ScriptBackup no HD como mostra a figura abaixo.
-![Screenshot](screenshot01.png)
+![Screenshot](Screenshot01.PNG)
 
 2. Abre o CMD (Promp de Comando) no Windows e entre na pasta C:\ScripBackup, e execute o arquivo Diario.bat:
-![Screenshot](screenshot02.png)
+![Screenshot](Screenshot02.PNG)
 
 3. Apos executar o Script 'Diario.bat' a seguite mensagem abaixo será mostrada com o progresso do Backup.
-![Screenshot](screenshot03.png)
+![Screenshot](Screenshot03.PNG)
 
 4. Antes de executar os passos mencionando acima configura a pasta de ORIGEM e DESTINO no Script 'C:\ScripBackup\Diario.bat'.
-- ![Screenshot](screenshot04.png)
+- ![Screenshot](Screenshot04.PNG)
 
 5. Relatorio do Backup para Analise está localizado em 'C:\ScriptBackup\Logs\Diario\backup_bkp.txt'.
-![Screenshot](screenshot05.png)
+![Screenshot](Screenshot05.PNG)
