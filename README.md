@@ -26,6 +26,7 @@
 # Serviço de Backup Ativado na Incialização do 'Services.msc':
 
 C:\ScriptBackup\exe>sc create "ALVESNET Backup - AoLigar" binpath=c:\ScriptBackup\exe\AoLigar.exe
+
 [SC] CreateService ÊXITO
 
 # Executar Backup pelo Agendador de Tarefas do Windows com usuários sem privilégios de Administrador:
