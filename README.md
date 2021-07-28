@@ -23,6 +23,17 @@
 5. Relatorio do Backup para Analise está localizado em 'C:\ScriptBackup\Logs\Diario\backup_bkp.txt'.
 ![Screenshot](Screenshot05.PNG)
 
+# Serviço de Backup Ativado na Incialização do 'Services.msc':
+
+C:\ScriptBackup\exe>sc create "ALVESNET Backup - AoLigar" binpath=c:\ScriptBackup\exe\AoLigar.exe
+[SC] CreateService ÊXITO
+
+# Executar Backup pelo Agendador de Tarefas do Windows com usuários sem privilégios de Administrador:
+
+C:\Windows\System32\runas.exe /user:Administrador /savecred /noprofile C:\ScriptBackup\exe\AoLigar.exe
+
+# Agendador de Tarefas do Windows Executador o Script acima após sessão do usuario com repetição da tarefas a cada 10 minutos.
+
 # Windows CMD commands:
 
 https://ss64.com/nt/
